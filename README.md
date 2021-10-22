@@ -83,12 +83,16 @@ sudo systemctl enable mariadb
 sudo systemctl restart mariadb
 
 sudo systemctl status mariadb
+![image](https://user-images.githubusercontent.com/71916387/138417610-3f303c48-6e9c-4ce3-a572-34e31f0585a3.png)
+
 
 ## Install PHP Paket:
 
 sudo apt-get install php7.3-fpm
 
 sudo apt install php7.3-common php7.3-mbstring php7.3-xmlrpc php7.3-soap php7.3-gd php7.3-xml php7.3-intl php7.3-mysql php7.3-cli php7.3-ldap php7.3-zip php7.3-curl
+
+![image](https://user-images.githubusercontent.com/71916387/138417819-502f739c-a6a7-4824-8611-94e79bb892bf.png)
 
 ## Membuat user database untuk wordpress
 ```
